@@ -2,4 +2,4 @@
 
 Using the data of beer reviews, we want to explore the answers to questions that can be answered by ML and DS techniques.
 
-I have used different statistical techniques to answer the questions and the process can be seen in src.ipynb notebook. Before you run the notebook, it is advised to have the dataset (BeerDataScienceProject.csv) in the same folder as the notebook.
+I have used different statistical techniques to answer the questions and the process can be seen in src.ipynb notebook. Before you run the notebook, it is advised to have the dataset (BeerDataScienceProject.csv) in the same folder as the notebook, but there is code in the notebook that will set it up like that even if you do not.
